@@ -1,0 +1,208 @@
+{
+    '11110': 'Hlavní město Praha',   # Univerzita Karlova - 1. lékařská fakulta
+    '11120': 'Hlavní město Praha',   # Univerzita Karlova - 3. lékařská fakulta
+    '11130': 'Hlavní město Praha',   # Univerzita Karlova - 2. lékařská fakulta
+    '11140': 'Plzeňský kraj',        # Univerzita Karlova - Lékařská fakulta v Plzni
+    '11150': 'Královéhradecký kraj', # Univerzita Karlova - Lékařská fakulta v Hradci Králové
+    '11160': 'Královéhradecký kraj', # Univerzita Karlova - Farmaceutická fakulta v Hradci Králové
+    '11210': 'Hlavní město Praha',   # Univerzita Karlova - Filozofická fakulta
+    '11220': 'Hlavní město Praha',   # Univerzita Karlova - Právnická fakulta
+    '11230': 'Hlavní město Praha',   # Univerzita Karlova - Fakulta sociálních věd
+    '11240': 'Hlavní město Praha',   # Univerzita Karlova - Fakulta humanitních studií
+    '11260': 'Hlavní město Praha',   # Univerzita Karlova - Katolická teologická fakulta
+    '11270': 'Hlavní město Praha',   # Univerzita Karlova - Evangelická teologická fakulta
+    '11280': 'Hlavní město Praha',   # Univerzita Karlova - Husitská teologická fakulta
+    '11310': 'Hlavní město Praha',   # Univerzita Karlova - Přírodovědecká fakulta
+    '11320': 'Hlavní město Praha',   # Univerzita Karlova - Matematicko-fyzikální fakulta
+    '11410': 'Hlavní město Praha',   # Univerzita Karlova - Pedagogická fakulta
+    '11510': 'Hlavní město Praha',   # Univerzita Karlova - Fakulta tělesné výchovy a sportu
+    '12000': 'Jihočeský kraj',       # Jihočeská univerzita v Českých Budějovicích
+    '12110': 'Jihočeský kraj',       # Jihočeská univerzita v Českých Budějovicích - Zdravotně sociální fakulta
+    '12210': 'Jihočeský kraj',       # Jihočeská univerzita v Českých Budějovicích - Filozofická fakulta
+    '12220': 'Jihočeský kraj',       # Jihočeská univerzita v Českých Budějovicích - Zemědělská fakulta
+    '12260': 'Jihočeský kraj',       # Jihočeská univerzita v Českých Budějovicích - Teologická fakulta
+    '12310': 'Jihočeský kraj',       # Jihočeská univerzita v Českých Budějovicích - Přírodovědecká fakulta
+    '12410': 'Jihočeský kraj',       # Jihočeská univerzita v Českých Budějovicích - Pedagogická fakulta
+    '12510': 'Jihočeský kraj',       # Jihočeská univerzita v Českých Budějovicích - Ekonomická fakulta
+    '12520': 'Jihočeský kraj',       # Jihočeská univerzita v Českých Budějovicích - Fakulta rybářství a ochrany vod
+    '13000': 'Ústecký kraj',         # Univerzita J. E. Purkyně v Ústí nad Labem
+    '13410': 'Ústecký kraj',         # Univerzita J. E. Purkyně v Ústí nad Labem - Filozofická fakulta
+    '13420': 'Ústecký kraj',         # Univerzita J. E. Purkyně v Ústí nad Labem - Fakulta strojního inženýrství
+    '13430': 'Ústecký kraj',         # Univerzita J. E. Purkyně v Ústí nad Labem - Pedagogická fakulta
+    '13440': 'Ústecký kraj',         # Univerzita J. E. Purkyně v Ústí nad Labem - Přírodovědecká fakulta
+    '13450': 'Ústecký kraj',         # Univerzita J. E. Purkyně v Ústí nad Labem - Fakulta zdravotnických studií
+    '13510': 'Ústecký kraj',         # Univerzita J. E. Purkyně v Ústí nad Labem - Fakulta sociálně ekonomická
+    '13520': 'Ústecký kraj',         # Univerzita J. E. Purkyně v Ústí nad Labem - Fakulta životního prostředí
+    '13530': 'Ústecký kraj',         # Univerzita J. E. Purkyně v Ústí nad Labem - Fakulta umění a designu
+    '14000': 'Jihomoravský kraj',    # Masarykova univerzita
+    '14110': 'Jihomoravský kraj',    # Masarykova univerzita - Lékařská fakulta
+    '14160': 'Jihomoravský kraj',    # Masarykova univerzita - Farmaceutická fakulta
+    '14210': 'Jihomoravský kraj',    # Masarykova univerzita - Filozofická fakulta
+    '14220': 'Jihomoravský kraj',    # Masarykova univerzita - Právnická fakulta
+    '14230': 'Jihomoravský kraj',    # Masarykova univerzita - Fakulta sociálních studií
+    '14310': 'Jihomoravský kraj',    # Masarykova univerzita - Přírodovědecká fakulta
+    '14330': 'Jihomoravský kraj',    # Masarykova univerzita - Fakulta informatiky
+    '14410': 'Jihomoravský kraj',    # Masarykova univerzita - Pedagogická fakulta
+    '14510': 'Jihomoravský kraj',    # Masarykova univerzita - Fakulta sportovních studií
+    '14560': 'Jihomoravský kraj',    # Masarykova univerzita - Ekonomicko-správní fakulta
+    '15000': 'Olomoucký kraj',       # Univerzita Palackého v Olomouci
+    '15110': 'Olomoucký kraj',       # Univerzita Palackého v Olomouci - Lékařská fakulta
+    '15120': 'Olomoucký kraj',       # Univerzita Palackého v Olomouci - Fakulta zdravotnických věd
+    '15210': 'Olomoucký kraj',       # Univerzita Palackého v Olomouci - Filozofická fakulta
+    '15220': 'Olomoucký kraj',       # Univerzita Palackého v Olomouci - Právnická fakulta
+    '15260': 'Olomoucký kraj',       # Univerzita Palackého v Olomouci - Cyrilometodějská teologická fakulta
+    '15310': 'Olomoucký kraj',       # Univerzita Palackého v Olomouci - Přírodovědecká fakulta
+    '15410': 'Olomoucký kraj',       # Univerzita Palackého v Olomouci - Pedagogická fakulta
+    '15510': 'Olomoucký kraj',       # Univerzita Palackého v Olomouci - Fakulta tělesné kultury
+    '16000': 'Jihomoravský kraj',    # Veterinární univerzita Brno
+    '16170': 'Jihomoravský kraj',    # Veterinární univerzita Brno - Fakulta veterinárního lékařství
+    '16270': 'Jihomoravský kraj',    # Veterinární univerzita Brno - Fakulta veterinární hygieny a ekologie
+    '17000': 'Moravskoslezský kraj', # Ostravská univerzita
+    '17110': 'Moravskoslezský kraj', # Ostravská univerzita - Lékařská fakulta
+    '17200': 'Moravskoslezský kraj', # Ostravská univerzita - Fakulta sociálních studií
+    '17250': 'Moravskoslezský kraj', # Ostravská univerzita - Filozofická fakulta
+    '17310': 'Moravskoslezský kraj', # Ostravská univerzita - Přírodovědecká fakulta
+    '17450': 'Moravskoslezský kraj', # Ostravská univerzita - Pedagogická fakulta
+    '17500': 'Moravskoslezský kraj', # Ostravská univerzita - Fakulta umění
+    '18000': 'Královéhradecký kraj', # Univerzita Hradec Králové
+    '18440': 'Královéhradecký kraj', # Univerzita Hradec Králové - Pedagogická fakulta
+    '18450': 'Královéhradecký kraj', # Univerzita Hradec Králové - Fakulta informatiky a managementu
+    '18460': 'Královéhradecký kraj', # Univerzita Hradec Králové - Filozofická fakulta
+    '18470': 'Královéhradecký kraj', # Univerzita Hradec Králové - Přírodovědecká fakulta
+    '18900': 'Královéhradecký kraj', # Univerzita Hradec Králové - celoškolská pracoviště
+    '19000': 'Moravskoslezský kraj', # Slezská univerzita v Opavě
+    '19240': 'Moravskoslezský kraj', # Slezská univerzita v Opavě - Filozoficko-přírodovědecká fakulta
+    '19510': 'Moravskoslezský kraj', # Slezská univerzita v Opavě - Fakulta veřejných politik v Opavě
+    '19520': 'Moravskoslezský kraj', # Slezská univerzita v Opavě - Obchodně podnikatelská fakulta v Karviné
+    '19900': 'Moravskoslezský kraj', # Slezská univerzita v Opavě - celoškolská pracoviště
+    '21000': 'Hlavní město Praha',   # České vysoké učení technické v Praze
+    '21110': 'Hlavní město Praha',   # České vysoké učení technické v Praze - Fakulta stavební
+    '21220': 'Hlavní město Praha',   # České vysoké učení technické v Praze - Fakulta strojní
+    '21230': 'Hlavní město Praha',   # České vysoké učení technické v Praze - Fakulta elektrotechnická
+    '21240': 'Hlavní město Praha',   # České vysoké učení technické v Praze - Fakulta informačních technologií
+    '21260': 'Hlavní město Praha',   # České vysoké učení technické v Praze - Fakulta dopravní
+    '21340': 'Hlavní město Praha',   # České vysoké učení technické v Praze - Fakulta jaderná a fyzikálně inženýrská
+    '21450': 'Hlavní město Praha',   # České vysoké učení technické v Praze - Fakulta architektury
+    '21460': 'Středočeský kraj',     # České vysoké učení technické v Praze - Fakulta biomedicínského inženýrství
+    '21900': 'Hlavní město Praha',   # České vysoké učení technické v Praze - celoškolská pracoviště
+    '22000': 'Hlavní město Praha',   # Vysoká škola chemicko-technologická v Praze
+    '22310': 'Hlavní město Praha',   # Vysoká škola chemicko-technologická v Praze - Fakulta chemické technologie
+    '22320': 'Hlavní město Praha',   # Vysoká škola chemicko-technologická v Praze - Fakulta technologie ochrany prostředí
+    '22330': 'Hlavní město Praha',   # Vysoká škola chemicko-technologická v Praze - Fakulta potravinářské a biochemické technologie
+    '22340': 'Hlavní město Praha',   # Vysoká škola chemicko-technologická v Praze - Fakulta chemicko-inženýrská
+    '22900': 'Hlavní město Praha',   # Vysoká škola chemicko-technologická v Praze - celoškolská pracoviště
+    '23000': 'Plzeňský kraj',        # Západočeská univerzita v Plzni
+    '23210': 'Plzeňský kraj',        # Západočeská univerzita v Plzni - Fakulta strojní
+    '23220': 'Plzeňský kraj',        # Západočeská univerzita v Plzni - Fakulta elektrotechnická
+    '23310': 'Plzeňský kraj',        # Západočeská univerzita v Plzni - Fakulta zdravotnických studií
+    '23320': 'Plzeňský kraj',        # Západočeská univerzita v Plzni - Fakulta právnická
+    '23330': 'Plzeňský kraj',        # Západočeská univerzita v Plzni - Filozofická fakulta
+    '23410': 'Plzeňský kraj',        # Západočeská univerzita v Plzni - Fakulta designu a umění L. Sutnara
+    '23420': 'Plzeňský kraj',        # Západočeská univerzita v Plzni - Fakulta pedagogická
+    '23510': 'Plzeňský kraj',        # Západočeská univerzita v Plzni - Fakulta ekonomická
+    '23520': 'Plzeňský kraj',        # Západočeská univerzita v Plzni - Fakulta aplikovaných věd
+    '24000': 'Liberecký kraj',       # Technická univerzita v Liberci
+    '24210': 'Liberecký kraj',       # Technická univerzita v Liberci - Fakulta strojní
+    '24220': 'Liberecký kraj',       # Technická univerzita v Liberci - Fakulta mechatroniky, informatiky a mezioborových studií
+    '24310': 'Liberecký kraj',       # Technická univerzita v Liberci - Ekonomická fakulta
+    '24410': 'Liberecký kraj',       # Technická univerzita v Liberci - Fakulta textilní
+    '24510': 'Liberecký kraj',       # Technická univerzita v Liberci - Fakulta přírodovědně-humanitní a pedagogická
+    '24520': 'Liberecký kraj',       # Technická univerzita v Liberci - Fakulta umění a architektury
+    '24530': 'Liberecký kraj',       # Technická univerzita v Liberci - Fakulta zdravotnických studií
+    '24900': 'Liberecký kraj',       # Technická univerzita v Liberci - celoškolská pracoviště
+    '25000': 'Pardubický kraj',      # Univerzita Pardubice
+    '25110': 'Pardubický kraj',      # Univerzita Pardubice - Fakulta restaurování
+    '25210': 'Pardubický kraj',      # Univerzita Pardubice - Fakulta filozofická
+    '25310': 'Pardubický kraj',      # Univerzita Pardubice - Fakulta chemicko-technologická
+    '25410': 'Pardubický kraj',      # Univerzita Pardubice - Fakulta ekonomicko-správní
+    '25510': 'Pardubický kraj',      # Univerzita Pardubice - Dopravní fakulta Jana Pernera
+    '25520': 'Pardubický kraj',      # Univerzita Pardubice - Fakulta zdravotnických studií
+    '25530': 'Pardubický kraj',      # Univerzita Pardubice - Fakulta elektrotechniky a informatiky
+    '26000': 'Jihomoravský kraj',    # Vysoké učení technické v Brně
+    '26110': 'Jihomoravský kraj',    # Vysoké učení technické v Brně - Fakulta stavební
+    '26210': 'Jihomoravský kraj',    # Vysoké učení technické v Brně - Fakulta strojního inženýrství
+    '26220': 'Jihomoravský kraj',    # Vysoké učení technické v Brně - Fakulta elektrotechniky a komunikačních technologií
+    '26230': 'Jihomoravský kraj',    # Vysoké učení technické v Brně - Fakulta informačních technologií
+    '26310': 'Jihomoravský kraj',    # Vysoké učení technické v Brně - Fakulta chemická
+    '26410': 'Jihomoravský kraj',    # Vysoké učení technické v Brně - Fakulta architektury
+    '26420': 'Jihomoravský kraj',    # Vysoké učení technické v Brně - Fakulta výtvarných umění
+    '26510': 'Jihomoravský kraj',    # Vysoké učení technické v Brně - Fakulta podnikatelská
+    '27000': 'Moravskoslezský kraj', # Vysoká škola báňská - Technická univerzita Ostrava
+    '27120': 'Moravskoslezský kraj', # Vysoká škola báňská - Technická univerzita Ostrava - Fakulta stavební
+    '27200': 'Moravskoslezský kraj', # Vysoká škola báňská - Technická univerzita Ostrava - Fakulta bezpečnostního inženýrství
+    '27230': 'Moravskoslezský kraj', # Vysoká škola báňská - Technická univerzita Ostrava - Fakulta strojní
+    '27240': 'Moravskoslezský kraj', # Vysoká škola báňská - Technická univerzita Ostrava - Fakulta elektrotechniky a informatiky
+    '27350': 'Moravskoslezský kraj', # Vysoká škola báňská - Technická univerzita Ostrava - Hornicko-geologická fakulta
+    '27360': 'Moravskoslezský kraj', # Vysoká škola báňská - Technická univerzita Ostrava - Fakulta materiálově-technologická
+    '27510': 'Moravskoslezský kraj', # Vysoká škola báňská - Technická univerzita Ostrava - Ekonomická fakulta
+    '27900': 'Moravskoslezský kraj', # Vysoká škola báňská - Technická univerzita Ostrava - celoškolská pracoviště
+    '28000': 'Zlínský kraj',         # Univerzita Tomáše Bati ve Zlíně
+    '28110': 'Zlínský kraj',         # Univerzita Tomáše Bati ve Zlíně - Fakulta technologická
+    '28120': 'Zlínský kraj',         # Univerzita Tomáše Bati ve Zlíně - Fakulta managementu a ekonomiky
+    '28130': 'Zlínský kraj',         # Univerzita Tomáše Bati ve Zlíně - Fakulta multimediálních komunikací
+    '28140': 'Zlínský kraj',         # Univerzita Tomáše Bati ve Zlíně - Fakulta aplikované informatiky
+    '28150': 'Zlínský kraj',         # Univerzita Tomáše Bati ve Zlíně - Fakulta humanitních studií
+    '28160': 'Zlínský kraj',         # Univerzita Tomáše Bati ve Zlíně - Fakulta logistiky a krizového řízení
+    '28900': 'Zlínský kraj',         # Univerzita Tomáše Bati ve Zlíně - celoškolská pracoviště
+    '31000': 'Hlavní město Praha',   # Vysoká škola ekonomická v Praze
+    '31110': 'Hlavní město Praha',   # Vysoká škola ekonomická v Praze - Fakulta financí a účetnictví
+    '31120': 'Hlavní město Praha',   # Vysoká škola ekonomická v Praze - Fakulta mezinárodních vztahů
+    '31130': 'Hlavní město Praha',   # Vysoká škola ekonomická v Praze - Fakulta podnikohospodářská
+    '31140': 'Hlavní město Praha',   # Vysoká škola ekonomická v Praze - Fakulta informatiky a statistiky
+    '31150': 'Hlavní město Praha',   # Vysoká škola ekonomická v Praze - Národohospodářská fakulta
+    '31160': 'Jihočeský kraj',       # Vysoká škola ekonomická v Praze - Fakulta managementu v Jindřichově Hradci
+    '41000': 'Hlavní město Praha',   # Česká zemědělská univerzita v Praze
+    '41110': 'Hlavní město Praha',   # Česká zemědělská univerzita v Praze - Provozně ekonomická fakulta
+    '41210': 'Hlavní město Praha',   # Česká zemědělská univerzita v Praze - Fakulta agrobiologie, potravinových a přírodních zdrojů
+    '41310': 'Hlavní město Praha',   # Česká zemědělská univerzita v Praze - Technická fakulta
+    '41320': 'Hlavní město Praha',   # Česká zemědělská univerzita v Praze - Fakulta lesnická a dřevařská
+    '41330': 'Hlavní město Praha',   # Česká zemědělská univerzita v Praze - Fakulta životního prostředí
+    '41340': 'Hlavní město Praha',   # Česká zemědělská univerzita v Praze - Fakulta tropického zemědělství
+    '41900': 'Hlavní město Praha',   # Česká zemědělská univerzita v Praze - celoškolská pracoviště
+    '43000': 'Jihomoravský kraj',    # Mendelova univerzita v Brně
+    '43110': 'Jihomoravský kraj',    # Mendelova univerzita v Brně - Provozně ekonomická fakulta
+    '43210': 'Jihomoravský kraj',    # Mendelova univerzita v Brně - Agronomická fakulta
+    '43310': 'Jihomoravský kraj',    # Mendelova univerzita v Brně - Fakulta regionálního rozvoje a mezinárodních studií
+    '43410': 'Jihomoravský kraj',    # Mendelova univerzita v Brně - Lesnická a dřevařská fakulta
+    '43510': 'Jihomoravský kraj',    # Mendelova univerzita v Brně - Zahradnická fakulta (Lednice)
+    '43900': 'Jihomoravský kraj',    # Mendelova univerzita v Brně - celoškolská pracoviště
+    '51000': 'Hlavní město Praha',   # Akademie múzických umění v Praze
+    '51110': 'Hlavní město Praha',   # Akademie múzických umění v Praze - Hudební a taneční fakulta
+    '51210': 'Hlavní město Praha',   # Akademie múzických umění v Praze - Divadelní fakulta
+    '51310': 'Hlavní město Praha',   # Akademie múzických umění v Praze - Filmová a televizní fakulta
+    '52000': 'Hlavní město Praha',   # Akademie výtvarných umění v Praze
+    '53000': 'Hlavní město Praha',   # Vysoká škola umělecko-průmyslová v Praze
+    '54000': 'Jihomoravský kraj',    # Janáčkova akademie múzických umění
+    '54510': 'Jihomoravský kraj',    # Janáčkova akademie múzických umění - Hudební fakulta
+    '54530': 'Jihomoravský kraj',    # Janáčkova akademie múzických umění - Divadelní fakulta
+    '55000': 'Vysočina',             # Vysoká škola polytechnická Jihlava
+    '56000': 'Jihočeský kraj',       # Vysoká škola technická a ekonomická v Českých Budějovicích
+    '60000': 'různé kraje (soukromé V)', # všechny soukromé VŠ
+    '61000': 'Hlavní město Praha',   # AMBIS - vysoká škola, a. s.
+    '63000': 'Hlavní město Praha',   # University College Prague
+    '6D000': 'Hlavní město Praha',   # University of New York in Prague, s.r.o
+    '6J000': 'Středočeský kraj',     # Academia Rerum Civilium - Vysoká škola politických a společenských věd, s.r.o.
+    '6K000': 'Jihočeský kraj',       # Vysoká škola evropských a regionálních studií, o.p.s.
+    '6N000': 'Jihočeský kraj',       # Filmová akademie Miroslava Ondříčka v Písku, o.p.s.
+    '6P000': 'Hlavní město Praha',   # Vysoká škola tělesné výchovy a sportu Palestra, spol s r.o.
+    '6Q000': 'Hlavní město Praha',   # Vysoká škola NEWTON, a.s.
+    '6R000': 'Olomoucký kraj',       # Vysoká škola logistiky o.p.s.
+    '6S000': 'Hlavní město Praha',   # Vysoká škola zdravotnická, o.p.s.
+    '73000': 'Jihomoravský kraj',    # Vysoká škola Sting, o.p.s.
+    '75000': 'Hlavní město Praha',   # Metropolitní univerzita Praha, o.p.s.
+    '78000': 'Hlavní město Praha',   # Anglo-americká vysoká škola, z.ú.
+    '79000': 'Hlavní město Praha',   # Pražská vysoká škola psychosociálních studií, s.r.o.
+    '7C000': 'Olomoucký kraj',       # Moravská vysoká škola Olomouc o.p.s.
+    '7D000': 'Hlavní město Praha',   # CEVRO institut z.ú.
+    '7E000': 'Hlavní město Praha',   # Unicorn Vysoká škola s.r.o.
+    '7J000': 'Hlavní město Praha',   # Evropská výzkumná univerzita, z.ú.
+    '7L000': 'Hlavní město Praha',   # Prague City Vysoká Škola s.r.o.
+    '7M000': 'Hlavní město Praha',   # Archip s.r.o.
+    '7N000': 'Středočeský kraj',     # Vysoká škola aplikované psychologie, s.r.o.
+    '7P000': 'Středočeský kraj',     # ŠKODA AUTO VŠ, o.p.s.
+    '7R000': 'Hlavní město Praha',   # ART & DESIGN INSTITUT, s.r.o.
+    '7S000': 'Hlavní město Praha',   # Panevropská univerzita, a.s.
+    '7T000': 'Hlavní město Praha',   # Vysoká škola kreativní komunikace, s.r.o.
+    '7U000': 'Hlavní město Praha',   # Vysoká škola finanční a správní, a.s.
+    '7V000': 'Hlavní město Praha',   # Vysoká škola ekonomie a managementu, a.s.
+}

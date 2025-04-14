@@ -1,0 +1,1 @@
+C:\Users\kovar\AppData\Roaming\Python\Python39\Scripts\jupyter-notebook "C:\Users\kovar\Desktop\Soubory\2.semestr\PKAR\PKAR_mobility_of_university_students\notebooks\data_processing.ipynb"
