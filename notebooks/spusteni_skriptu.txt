@@ -1,0 +1,1 @@
+cd "C:\Users\michal\Desktop\2.semestr\PKAR\PKAR_mobility_of_university_students\notebooks" && "C:\Program Files\QGIS 3.40.6\bin\python.exe" -m notebook
