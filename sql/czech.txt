@@ -1,0 +1,9 @@
+SELECT 
+  a.*, 
+  b."2023" AS percent_2023
+FROM 
+  "regions" AS a
+LEFT JOIN 
+  "percents_czech" AS b
+ON 
+  a."nazev" = b."nazev"
