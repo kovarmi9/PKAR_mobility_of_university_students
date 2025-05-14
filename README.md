@@ -13,3 +13,9 @@ This repository contains data and scripts for creating a map of university stude
 - **Place of Residence of Students by University**:  
   - Overview: [MŠMT - Outputs](https://dsia.msmt.cz/vystupy/vu_vs_f2.html)  
   - Specific Table (F25): [View Table F25](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fdsia.msmt.cz%2Fvystupy%2Ff2%2Ff25.xlsx&wdOrigin=BROWSELINK)
+
+## 🗺️ Preview map
+
+![Map preview](outputs/Preview.png)
+
+📎 [Download full A1 PDF map](outputs/Print.pdf)
