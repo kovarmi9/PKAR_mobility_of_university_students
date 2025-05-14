@@ -1,6 +1,7 @@
 SELECT 
   a.*, 
-  b."2023" AS percent_2023
+  b."2023" AS percent_2023,
+  b."zkratka"
 FROM 
   "regions" AS a
 LEFT JOIN 
