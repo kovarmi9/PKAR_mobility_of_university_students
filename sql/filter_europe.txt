@@ -1,0 +1,11 @@
+"NAME_ENGL" IN (
+'Belgium', 'Bulgaria', 'Czechia', 'Denmark',
+'Germany', 'Estonia', 'Ireland', 'Greece', 'Spain', 'France', 'Croatia',
+'Italy', 'Cyprus', 'Latvia', 'Lithuania', 'Luxembourg', 'Hungary',
+'Malta', 'Netherlands', 'Austria', 'Poland', 'Portugal', 'Slovakia',
+'Finland', 'Slovenia', 'Romania', 'Sweden', 'Iceland', 'Liechtenstein',
+'Norway', 'Switzerland', 'United Kingdom', 'Bosnia and Herzegovina',
+'Montenegro', 'Moldova', 'North Macedonia', 'Georgia', 'Albania',
+'Serbia', 'Türkiye', 'Ukraine', 'Kosovo*', 'Andorra', 'Belarus',
+'Gibraltar', 'Holy See', 'Monaco', 'Russia', 'San Marino'
+)

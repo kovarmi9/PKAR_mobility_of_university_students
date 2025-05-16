@@ -1,0 +1,12 @@
+<Query>"NAME_ENGL" IN (&#xd;
+'Belgium', 'Bulgaria', 'Czechia', 'Denmark',&#xd;
+'Germany', 'Estonia', 'Ireland', 'Greece', 'Spain', 'France', 'Croatia',&#xd;
+'Italy', 'Cyprus', 'Latvia', 'Lithuania', 'Luxembourg', 'Hungary',&#xd;
+'Malta', 'Netherlands', 'Austria', 'Poland', 'Portugal', 'Slovakia',&#xd;
+'Finland', 'Slovenia', 'Romania', 'Sweden', 'Iceland', 'Liechtenstein',&#xd;
+'Norway', 'Switzerland', 'United Kingdom', 'Bosnia and Herzegovina',&#xd;
+'Montenegro', 'Moldova', 'North Macedonia', 'Georgia', 'Albania',&#xd;
+'Serbia', 'Türkiye', 'Ukraine', 'Kosovo*', 'Andorra', 'Belarus',&#xd;
+'Gibraltar', 'Holy See', 'Monaco', 'Russian Federation', 'San Marino'&#xd;
+)&#xd;
+</Query>
