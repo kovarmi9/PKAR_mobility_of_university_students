@@ -16,6 +16,6 @@ This repository contains data and scripts for creating a map of university stude
 
 ## 🗺️ Preview map
 
-![Map preview](outputs/Preview.png)
+![Map preview](outputs/Print.png)
 
 📎 [Download full A1 PDF map](outputs/Print.pdf)
